@@ -7,7 +7,7 @@ Given labeled dataset of whether a customer churned, predict whether someone els
 
 Stuff we need to do:
   1. Download and preprocess data (I think it's already pre processed)
-  2. Figure out how to read in the data in batches. (see next_batch.py for potential option)
+  2. Figure out how to read in the data in batches. (see next_batch() in neuralnetwork.py for potential option)
   3. Feature Selection
   4. Build out models (Chase = scikit learn & Tensorflow. Gary = ?)
   5. Tune Hyperparameters
